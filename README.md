@@ -131,7 +131,7 @@ The project uses two datasets:
 
 ## License
 
-[Add your license information here]
+MIT
 
 ## Acknowledgments
 
